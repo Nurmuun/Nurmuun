@@ -45,10 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nurmuun/nurmuun/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 <!---
 Nurmuun/Nurmuun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
